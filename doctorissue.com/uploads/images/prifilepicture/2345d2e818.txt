@@ -1,0 +1,22 @@
+
+    Doctor of Medicine by research (MD(Res), DM)
+    Doctor of Philosophy (PhD, DPhil)
+
+    Master of Clinical Medicine (MCM)
+    Master of Medical Science (MMSc, MMedSc)
+    Master of Medicine (MM, MMed)
+    Master of Philosophy (MPhil)
+    Master of Surgery (MS, MSurg, MChir, MCh, ChM, CM)
+    Master of Science in Medicine or Surgery (MSc)
+    Doctor of Clinical Medicine (DCM)
+    Doctor of Clinical Surgery (DClinSurg)
+    Doctor of Medical Science (DMSc, DMedSc)
+    Doctor of Surgery (DS, DSurg)
+    MRCP,MCPS,FRCS,FCPS
+
+
+
+    Bachelor of Medicine, Bachelor of Surgery (MBBS, BMBS, MBChB,Mrcp, MBBCh)
+    Doctor of Medicine (MD, Dr.MuD, Dr.Med)
+    Doctor of Osteopathic Medicine (DO)
+
